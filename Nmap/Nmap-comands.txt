@@ -1,0 +1,5 @@
+Basic Scan:
+nmap  -vv  -sS -p- -A -T4 [IP]
+
+Basic Udp Scan:
+nmap -sU -top-ports=20 [IP]
