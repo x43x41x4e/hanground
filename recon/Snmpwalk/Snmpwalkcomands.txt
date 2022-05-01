@@ -1,0 +1,3 @@
+-c --> comunity string
+
+snmpwalk -v1 -c public IP
